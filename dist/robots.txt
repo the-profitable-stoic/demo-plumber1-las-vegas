@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-plumber1-las-vegas.dream-surge.com/sitemap-index.xml

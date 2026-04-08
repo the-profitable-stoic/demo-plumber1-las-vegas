@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Plumber1 Las Vegas",
+    "phone": "+17028309910",
+    "category": "plumber",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Vegas's Reliable Plumbing Experts",
+      "heroSubline": "Decades of experience tackling Vegas's toughest plumbing challenges. Licensed, insured, and ready to respond.",
+      "aboutTitle": "Decades of Plumbing Expertise in the Vegas Valley",
+      "aboutText": [
+        "Plumber1 Las Vegas isn't just another plumbing company; we're a team of seasoned professionals deeply rooted in the Las Vegas community. For over a decade, we've been providing reliable and efficient plumbing solutions to homeowners and businesses across the valley. We understand the unique challenges that the desert climate and aging infrastructure present.",
+        "Our approach is simple: honesty, integrity, and quality workmanship. We believe in clear communication, transparent pricing, and doing the job right the first time. We use only the highest quality materials and employ proven techniques to ensure lasting results, even under the harsh Vegas sun.",
+        "We're committed to serving our community and are proud to support local initiatives. We believe in giving back to the city that has given us so much, and we strive to be a responsible and ethical business in everything we do."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Plumbing emergencies don't wait, and neither do we. We're available around the clock to handle your urgent plumbing needs."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear and transparent pricing before we start any work."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team consists of licensed and highly trained plumbers with years of experience in the Las Vegas area."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We stand behind our work with a satisfaction guarantee. We use only the best materials and techniques to ensure lasting results."
+        }
+      ],
+      "ctaHeadline": "Solve Your Plumbing Problems Today!",
+      "ctaSubline": "Call now for fast, reliable service and a free estimate. We're ready to help you get your plumbing back on track."
+    },
+    "services": [
+      {
+        "slug": "leak-detection-repair",
+        "name": "Leak Detection & Repair",
+        "shortDescription": "Find and fix leaks fast to prevent water damage and high bills.",
+        "description": "Water leaks, whether hidden or obvious, can cause significant damage to your Las Vegas home or business. Our expert leak detection services utilize advanced technology to pinpoint the source of the leak, even behind walls or under concrete slabs. We address everything from dripping faucets and running toilets, to slab leaks and burst pipes. Once the leak is located, our skilled plumbers will efficiently repair the problem, preventing further water waste and costly repairs. Given Vegas's intense summer heat and older housing stock, proactive leak detection is critical to maintaining your property's value. We are experienced in dealing with the unique challenges of plumbing systems in Henderson, North Las Vegas, and Summerlin homes. \n\nIgnoring a leak can lead to mold growth, structural damage, and skyrocketing water bills. Don't wait until it's too late. Call Plumber1 Las Vegas for fast and reliable leak detection and repair services.",
+        "process": [
+          "Step 1: Advanced Leak Detection: Using specialized equipment to pinpoint the leak's exact location.",
+          "Step 2: Thorough Assessment: Evaluating the extent of the damage and determining the best repair strategy.",
+          "Step 3: Professional Repair: Employing proven techniques and quality materials for a lasting solution.",
+          "Step 4: Verification and Prevention: Ensuring the repair is effective and providing tips to prevent future leaks."
+        ],
+        "benefits": [
+          "Reduces Water Bills",
+          "Prevents Water Damage",
+          "Eliminates Mold Growth",
+          "Protects Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I have a hidden leak?",
+            "answer": "Signs of a hidden leak include unexplained increases in your water bill, damp spots on walls or ceilings, and the sound of running water when no fixtures are in use. If you suspect a leak, call us immediately."
+          },
+          {
+            "question": "What is a slab leak?",
+            "answer": "A slab leak occurs when a water pipe embedded in the concrete foundation of your home develops a leak. These leaks can be difficult to detect but can cause significant structural damage if left unaddressed."
+          },
+          {
+            "question": "How quickly can you respond to a leak?",
+            "answer": "We offer 24/7 emergency service and can typically respond to leak calls within an hour, depending on your location in the Las Vegas Valley."
+          }
+        ]
+      },
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Clear clogged drains quickly and effectively with our professional service.",
+        "description": "Clogged drains are a common nuisance in Las Vegas homes, especially given our hard water and the tendency for sand and debris to enter the system. Plumber1 Las Vegas offers comprehensive drain cleaning services to clear even the toughest clogs. From simple sink clogs to more complex sewer line blockages, we have the tools and expertise to get your drains flowing freely again. We use a variety of methods, including snaking, hydro-jetting, and enzymatic drain cleaners, to ensure a thorough and lasting solution. We understand the urgency of drain problems, especially in the extreme heat of the summer, and we are committed to providing prompt and reliable service. \n\nRegular drain cleaning can prevent future clogs and extend the life of your plumbing system. Don't let a clogged drain disrupt your day. Contact Plumber1 Las Vegas for fast and effective drain cleaning services.",
+        "process": [
+          "Step 1: Drain Inspection: Identifying the location and cause of the clog using camera inspection.",
+          "Step 2: Clog Removal: Employing the most effective method to remove the clog, such as snaking or hydro-jetting.",
+          "Step 3: Drain Flushing: Thoroughly flushing the drain to remove any remaining debris.",
+          "Step 4: System Check: Inspecting the drain to ensure proper flow and prevent future blockages."
+        ],
+        "benefits": [
+          "Prevents Future Clogs",
+          "Improves Drain Flow",
+          "Eliminates Foul Odors",
+          "Extends Plumbing System Life"
+        ],
+        "faq": [
+          {
+            "question": "What causes clogged drains?",
+            "answer": "Clogged drains can be caused by a variety of factors, including hair, grease, food scraps, mineral buildup, and foreign objects."
+          },
+          {
+            "question": "What is hydro-jetting?",
+            "answer": "Hydro-jetting is a powerful drain cleaning method that uses high-pressure water to blast away stubborn clogs and buildup from the inside of your pipes. It's an effective solution for clearing grease, roots, and other debris."
+          },
+          {
+            "question": "How often should I have my drains cleaned?",
+            "answer": "We recommend having your drains cleaned at least once a year to prevent clogs and maintain optimal plumbing performance. More frequent cleaning may be necessary if you experience frequent clogs or have older pipes."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-services",
+        "name": "Water Heater Services",
+        "shortDescription": "Expert repair, replacement, and maintenance for all types of water heaters.",
+        "description": "Living in Las Vegas means relying heavily on efficient water heaters, especially during the cooler months. Plumber1 Las Vegas offers comprehensive water heater services, including repair, replacement, and maintenance. We work on all types of water heaters, including conventional tank water heaters, tankless water heaters, and heat pump water heaters. Whether you're experiencing a lack of hot water, a leaking tank, or unusual noises, our experienced technicians can diagnose the problem and provide a lasting solution. We understand the importance of having a reliable water heater, and we are committed to providing prompt and professional service. \n\nRegular water heater maintenance can extend the life of your water heater and prevent costly repairs. Contact Plumber1 Las Vegas for all your water heater needs.",
+        "process": [
+          "Step 1: System Inspection: Evaluating the water heater's condition and identifying any problems.",
+          "Step 2: Repair or Replacement: Providing expert repair services or recommending a suitable replacement if necessary.",
+          "Step 3: Professional Installation: Installing the new water heater according to manufacturer specifications.",
+          "Step 4: System Testing: Ensuring proper operation and providing instructions on maintenance."
+        ],
+        "benefits": [
+          "Reliable Hot Water",
+          "Energy Efficiency",
+          "Extended Water Heater Life",
+          "Reduced Energy Bills"
+        ],
+        "faq": [
+          {
+            "question": "How long does a water heater typically last?",
+            "answer": "The lifespan of a water heater typically ranges from 8 to 12 years, depending on the type of water heater, water quality, and maintenance practices."
+          },
+          {
+            "question": "What are the benefits of a tankless water heater?",
+            "answer": "Tankless water heaters provide on-demand hot water, eliminating the need for a storage tank. They are more energy-efficient and can save you money on your utility bills."
+          },
+          {
+            "question": "How often should I have my water heater serviced?",
+            "answer": "We recommend having your water heater serviced at least once a year to ensure optimal performance and prevent costly repairs."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-line-repair",
+        "name": "Sewer Line Repair & Replacement",
+        "shortDescription": "Solve sewer line problems with our expert repair and replacement services.",
+        "description": "Sewer line problems can be a major headache for Las Vegas homeowners, especially with the area's expansive root systems and aging infrastructure. Plumber1 Las Vegas offers comprehensive sewer line repair and replacement services to address any issue, from minor leaks to complete line collapses. We use advanced techniques, such as trenchless sewer repair, to minimize disruption to your property and save you time and money. Our experienced technicians can diagnose the problem using camera inspection and provide a lasting solution that meets your needs and budget. We understand the urgency of sewer line problems and are committed to providing prompt and reliable service. \n\nIgnoring a sewer line problem can lead to serious health hazards and property damage. Contact Plumber1 Las Vegas for fast and effective sewer line repair and replacement services.",
+        "process": [
+          "Step 1: Sewer Line Inspection: Using camera inspection to identify the location and cause of the sewer line problem.",
+          "Step 2: Repair or Replacement: Recommending the most appropriate repair or replacement method based on the severity of the problem.",
+          "Step 3: Trenchless Repair (if applicable): Utilizing trenchless technology to minimize digging and disruption to your property.",
+          "Step 4: System Testing: Ensuring proper flow and functionality of the repaired or replaced sewer line."
+        ],
+        "benefits": [
+          "Prevents Sewage Backups",
+          "Eliminates Foul Odors",
+          "Protects Property Value",
+          "Minimizes Disruption"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a sewer line problem?",
+            "answer": "Signs of a sewer line problem include sewage backups, slow-draining drains, foul odors, and gurgling sounds in your plumbing system."
+          },
+          {
+            "question": "What is trenchless sewer repair?",
+            "answer": "Trenchless sewer repair is a method of repairing or replacing sewer lines without digging up your entire yard. It involves using specialized equipment to access and repair the sewer line from within."
+          },
+          {
+            "question": "How long does sewer line repair or replacement take?",
+            "answer": "The duration of sewer line repair or replacement depends on the extent of the problem and the method used. Trenchless repair is typically faster than traditional trenching methods."
+          }
+        ]
+      },
+      {
+        "slug": "toilet-repair-replacement",
+        "name": "Toilet Repair & Replacement",
+        "shortDescription": "Fix leaky, running, or broken toilets with our expert services.",
+        "description": "A malfunctioning toilet can be a major inconvenience in any Las Vegas home. Plumber1 Las Vegas offers comprehensive toilet repair and replacement services to address any issue, from minor leaks and running toilets to complete toilet replacements. We work on all types of toilets, including standard toilets, low-flow toilets, and dual-flush toilets. Our experienced technicians can diagnose the problem and provide a lasting solution that meets your needs and budget. We understand the importance of having a properly functioning toilet, and we are committed to providing prompt and reliable service. \n\nRegular toilet maintenance can prevent costly repairs and extend the life of your toilet. Contact Plumber1 Las Vegas for all your toilet repair and replacement needs.",
+        "process": [
+          "Step 1: Toilet Inspection: Evaluating the toilet's condition and identifying any problems.",
+          "Step 2: Repair or Replacement: Providing expert repair services or recommending a suitable replacement if necessary.",
+          "Step 3: Professional Installation: Installing the new toilet according to manufacturer specifications.",
+          "Step 4: System Testing: Ensuring proper operation and providing instructions on maintenance."
+        ],
+        "benefits": [
+          "Efficient Flushing",
+          "Water Conservation",
+          "Leak Prevention",
+          "Quiet Operation"
+        ],
+        "faq": [
+          {
+            "question": "Why is my toilet running constantly?",
+            "answer": "A running toilet is often caused by a faulty flapper valve, fill valve, or chain. Our technicians can quickly diagnose and repair the problem."
+          },
+          {
+            "question": "What is a low-flow toilet?",
+            "answer": "Low-flow toilets use less water per flush than standard toilets, helping to conserve water and reduce your water bill."
+          },
+          {
+            "question": "How do I know if I need to replace my toilet?",
+            "answer": "If your toilet is cracked, leaking, or constantly clogging, it may be time to replace it. We can help you choose a new toilet that meets your needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "plumbing-inspections",
+        "name": "Plumbing Inspections",
+        "shortDescription": "Comprehensive plumbing inspections to identify potential problems early.",
+        "description": "Protect your Las Vegas property with a thorough plumbing inspection from Plumber1 Las Vegas. Our comprehensive inspections can identify potential problems early, preventing costly repairs down the road. We inspect all aspects of your plumbing system, including pipes, fixtures, water heaters, and sewer lines. Our experienced technicians provide a detailed report outlining any issues and recommending appropriate solutions. Given the older housing stock in many parts of Las Vegas, regular plumbing inspections are crucial for maintaining the integrity of your plumbing system. We understand the unique challenges of plumbing systems in Henderson, North Las Vegas, and Summerlin homes and can provide tailored recommendations to address your specific needs. \n\nA plumbing inspection is a smart investment that can save you money and prevent headaches in the long run. Contact Plumber1 Las Vegas to schedule your inspection today.",
+        "process": [
+          "Step 1: Visual Inspection: Thoroughly examining all visible plumbing components for signs of damage or wear.",
+          "Step 2: Pressure Testing: Checking water pressure to identify any leaks or restrictions.",
+          "Step 3: Drain Testing: Evaluating drain flow to identify any clogs or blockages.",
+          "Step 4: Report and Recommendations: Providing a detailed report outlining any issues and recommending appropriate solutions."
+        ],
+        "benefits": [
+          "Early Problem Detection",
+          "Prevents Costly Repairs",
+          "Ensures System Efficiency",
+          "Provides Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have a plumbing inspection?",
+            "answer": "We recommend having a plumbing inspection at least once every two years, or more frequently if you have an older home or experience frequent plumbing problems."
+          },
+          {
+            "question": "What is included in a plumbing inspection?",
+            "answer": "A plumbing inspection includes a thorough examination of all visible plumbing components, pressure testing, and drain testing."
+          },
+          {
+            "question": "How much does a plumbing inspection cost?",
+            "answer": "The cost of a plumbing inspection varies depending on the size and complexity of your plumbing system. Contact us for a free quote."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Henderson",
+        "slug": "henderson-nv",
+        "state": "NV",
+        "content": "Plumber1 Las Vegas is proud to offer comprehensive plumbing services to the residents and businesses of Henderson, Nevada. We understand the unique needs of this rapidly growing city, known for its master-planned communities that sprung up from the 1990s through the 2020s. From basic repairs to complex installations, our team of experienced plumbers is equipped to handle any plumbing issue you may encounter.\n\nHenderson's extreme summer heat can put a strain on plumbing systems, leading to leaks, burst pipes, and other problems. Plumber1 Las Vegas offers preventative maintenance services to help you avoid these costly repairs. We are committed to providing prompt, reliable, and affordable plumbing solutions to keep your home or business running smoothly.",
+        "localContext": "Henderson is characterized by its master-planned communities and experiences extreme summer heat, making reliable plumbing essential for residents and businesses alike.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Paradise",
+          "Whitney"
+        ]
+      },
+      {
+        "city": "North Las Vegas",
+        "slug": "north-las-vegas-nv",
+        "state": "NV",
+        "content": "Plumber1 Las Vegas is dedicated to providing top-quality plumbing services to the residents and businesses of North Las Vegas, Nevada. We recognize the unique characteristics of this vibrant city, known for its affordable newer construction homes. Our team of skilled plumbers is ready to tackle any plumbing challenge, big or small.\n\nThe extreme summer heat in North Las Vegas can place significant stress on plumbing systems. Plumber1 Las Vegas offers a full range of plumbing services, from leak detection and repair to water heater installation and drain cleaning, to ensure your plumbing system functions efficiently and reliably. We are committed to delivering exceptional service at competitive prices.",
+        "localContext": "North Las Vegas is known for its affordable newer construction and experiences extreme summer heat, highlighting the need for efficient and reliable plumbing services.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Sunrise Manor",
+          "Nellis AFB"
+        ]
+      },
+      {
+        "city": "Summerlin",
+        "slug": "summerlin-nv",
+        "state": "NV",
+        "content": "Plumber1 Las Vegas is pleased to offer our expert plumbing services to the upscale community of Summerlin, Nevada. We understand the needs of residents in this master-planned community, developed from the 1990s through the 2020s, and we are committed to providing the highest level of service and professionalism.\n\nSummerlin's extreme summer heat can create unique plumbing challenges. From water conservation to efficient water heating solutions, Plumber1 Las Vegas can help you maintain a comfortable and efficient home. We offer a full range of plumbing services, including repairs, installations, and preventative maintenance, to ensure your plumbing system is always in top condition.",
+        "localContext": "Summerlin is an upscale master-planned community that experiences extreme summer heat, making reliable and efficient plumbing services essential for its residents.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Spring Valley",
+          "Paradise"
+        ]
+      },
+      {
+        "city": "Las Vegas",
+        "slug": "las-vegas-nv",
+        "state": "NV",
+        "content": "Plumber1 Las Vegas provides reliable plumbing services to the Las Vegas area. As a local business, we are committed to offering the best plumbing services in the Valley. We know the specific plumbing challenges that desert environments present, and we're equipped to handle any issue, from leaky faucets to complete plumbing system installations. \n\nOur plumbers are highly trained and experienced in all aspects of plumbing, including residential and commercial services. We also offer emergency plumbing services for those unexpected problems that need immediate attention. If you need plumbing help, give Plumber1 Las Vegas a call!",
+        "localContext": "Las Vegas is a vibrant city in the desert, requiring expert plumbing services to address the unique challenges of the local environment.",
+        "nearbyAreas": [
+          "Paradise",
+          "Spring Valley",
+          "Sunrise Manor"
+        ]
+      },
+      {
+        "city": "Paradise",
+        "slug": "paradise-nv",
+        "state": "NV",
+        "content": "Plumber1 Las Vegas provides plumbing services to Paradise, Nevada. As a community with many residences and businesses, we know that Paradise residents and businesses need reliable plumbing services. We are committed to offering the best plumbing services in the surrounding areas. \n\nOur plumbers are highly trained and experienced in all aspects of plumbing, including residential and commercial services. We also offer emergency plumbing services for those unexpected problems that need immediate attention. If you need plumbing help, give Plumber1 Las Vegas a call!",
+        "localContext": "Paradise is a bustling town with many residents and businesses, requiring expert plumbing services to address the needs of the local community.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Winchester",
+          "Whitney"
+        ]
+      },
+      {
+        "city": "Spring Valley",
+        "slug": "spring-valley-nv",
+        "state": "NV",
+        "content": "Plumber1 Las Vegas is dedicated to providing top-quality plumbing services to the residents and businesses of Spring Valley, Nevada. We understand the diverse needs of this community and are committed to delivering prompt, reliable, and affordable plumbing solutions.\n\nFrom routine maintenance to emergency repairs, our team of experienced plumbers is equipped to handle any plumbing challenge you may encounter. We pride ourselves on our professionalism and commitment to customer satisfaction. Whether you need a leaky faucet fixed or a new water heater installed, Plumber1 Las Vegas is here to help.",
+        "localContext": "Spring Valley's diverse community needs reliable plumbing services to address the needs of its residents and businesses.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Summerlin",
+          "Paradise"
+        ]
+      },
+      {
+        "city": "Sunrise Manor",
+        "slug": "sunrise-manor-nv",
+        "state": "NV",
+        "content": "Plumber1 Las Vegas proudly serves the community of Sunrise Manor, Nevada, providing reliable and affordable plumbing services to residents and businesses alike. We understand the unique needs of this area and are committed to delivering exceptional service with a focus on customer satisfaction.\n\nWhether you're dealing with a clogged drain, a leaky pipe, or need a new plumbing system installed, our team of experienced plumbers is here to help. We offer a full range of services to meet all your plumbing needs, and we're available 24/7 for emergency repairs.",
+        "localContext": "Sunrise Manor requires reliable plumbing services to address the needs of the local community.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "North Las Vegas",
+          "Whitney"
+        ]
+      },
+      {
+        "city": "Whitney",
+        "slug": "whitney-nv",
+        "state": "NV",
+        "content": "Plumber1 Las Vegas is pleased to extend our comprehensive plumbing services to the community of Whitney, Nevada. We understand the importance of reliable plumbing systems for homes and businesses, and we are dedicated to providing top-quality service at competitive prices.\n\nOur team of skilled plumbers is equipped to handle any plumbing issue you may encounter, from minor repairs to major installations. We pride ourselves on our professionalism, efficiency, and commitment to customer satisfaction. When you need a plumber in Whitney, you can count on Plumber1 Las Vegas.",
+        "localContext": "Whitney prioritizes access to plumbing services to address the needs of its residents and businesses.",
+        "nearbyAreas": [
+          "Henderson",
+          "Paradise",
+          "Sunrise Manor"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Water Heater Replacement",
+        "text": "Our water heater went out on a Friday night. Plumber1 Las Vegas came out quickly and had a new one installed the next morning. The technician, David, was professional and efficient. Great service!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Drain Cleaning",
+        "text": "Had a clogged kitchen sink that I couldn't clear myself. They came out and cleared it quickly. Price was reasonable. Would use them again.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Leak Detection & Repair",
+        "text": "I suspected a slab leak and called Plumber1 Las Vegas. They were able to locate the leak quickly and repair it with minimal disruption to my home. Very professional and knowledgeable.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Toilet Repair",
+        "text": "My toilet was constantly running. The plumber arrived on time, quickly diagnosed the problem, and fixed it. Very satisfied with the service.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Susan K.",
+        "rating": 4,
+        "service": "Sewer Line Repair",
+        "text": "We had a major sewer line backup. Plumber1 Las Vegas was able to come out and repair the line quickly. The price was a bit high, but they did a great job.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Plumbing Inspection",
+        "text": "Had a plumbing inspection done before buying a new house in Summerlin. They were very thorough and found a few potential issues that we were able to address before closing. Highly recommend!",
+        "date": "2024-10-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Plumber1 Las Vegas | Reliable Plumbing Services",
+        "description": "Las Vegas plumbing experts. 24/7 emergency service, leak detection, drain cleaning & more. Call for a free estimate!"
+      },
+      "about": {
+        "title": "About Plumber1 Las Vegas | Local Plumbing Experts",
+        "description": "Learn about Plumber1 Las Vegas, your trusted local plumber. Decades of experience, quality workmanship, and community commitment."
+      },
+      "services": {
+        "title": "Plumber1 Las Vegas Services | Plumbing Solutions",
+        "description": "Full range of plumbing services: leak detection, drain cleaning, water heaters, sewer lines & more. Serving Las Vegas."
+      },
+      "contact": {
+        "title": "Contact Plumber1 Las Vegas | Get Plumbing Help Now",
+        "description": "Contact Plumber1 Las Vegas for fast and reliable plumbing service. Available 24/7 for emergencies. Call us today!"
+      },
+      "reviews": {
+        "title": "Plumber1 Las Vegas Reviews | See What Our Clients Say",
+        "description": "Read reviews for Plumber1 Las Vegas. See why our customers trust us for all their plumbing needs in Las Vegas."
+      },
+      "service-areas": {
+        "title": "Plumber1 Las Vegas Service Areas | Plumbing Near You",
+        "description": "Plumber1 Las Vegas provides plumbing services throughout the Las Vegas Valley. Find a plumber in your neighborhood!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "leak-detection-repair": "/images/service-leak-detection-repair.webp",
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-services": "/images/service-water-heater-services.webp",
+      "sewer-line-repair": "/images/service-sewer-line-repair.webp",
+      "toilet-repair-replacement": "/images/service-toilet-repair-replacement.webp",
+      "plumbing-inspections": "/images/service-plumbing-inspections.webp"
+    },
+    "servicesResponsive": {
+      "leak-detection-repair": {
+        "src": "/images/service-leak-detection-repair.webp",
+        "srcset": "/images/service-leak-detection-repair-400w.webp 400w, /images/service-leak-detection-repair-800w.webp 800w, /images/service-leak-detection-repair-1200w.webp 1200w, /images/service-leak-detection-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-services": {
+        "src": "/images/service-water-heater-services.webp",
+        "srcset": "/images/service-water-heater-services-400w.webp 400w, /images/service-water-heater-services-800w.webp 800w, /images/service-water-heater-services-1200w.webp 1200w, /images/service-water-heater-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-line-repair": {
+        "src": "/images/service-sewer-line-repair.webp",
+        "srcset": "/images/service-sewer-line-repair-400w.webp 400w, /images/service-sewer-line-repair-800w.webp 800w, /images/service-sewer-line-repair-1200w.webp 1200w, /images/service-sewer-line-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "toilet-repair-replacement": {
+        "src": "/images/service-toilet-repair-replacement.webp",
+        "srcset": "/images/service-toilet-repair-replacement-400w.webp 400w, /images/service-toilet-repair-replacement-800w.webp 800w, /images/service-toilet-repair-replacement-1200w.webp 1200w, /images/service-toilet-repair-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "plumbing-inspections": {
+        "src": "/images/service-plumbing-inspections.webp",
+        "srcset": "/images/service-plumbing-inspections-400w.webp 400w, /images/service-plumbing-inspections-800w.webp 800w, /images/service-plumbing-inspections-1200w.webp 1200w, /images/service-plumbing-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
